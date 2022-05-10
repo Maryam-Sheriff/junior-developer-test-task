@@ -1,2 +1,2 @@
-# ScandiWeb--App
-ScandiWeb Task
+# Full Stack Task
+junior developer test task
